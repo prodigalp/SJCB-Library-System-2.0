@@ -1,0 +1,101 @@
+html {
+	background:#306EFF;
+}
+
+body {
+	margin:0px;
+	padding:0px;
+	font-family:monospace;
+}
+
+#wraper {
+	background:#00FF00;
+	padding:10px;
+	width:500px;
+	height:515px;
+	margin:30px auto;
+	border-radius:15px;
+	box-shadow:0 0 1em rgba(1,1,1,0.9);
+}
+
+#header {
+	color:#FFFF00;
+	background:#306EFF;
+	height:30px;
+	line-height:30px;
+	text-align:center;
+	border-radius:15px;
+	font-size:30px;
+	font-weight:bold;
+	box-shadow:0 0 0.2em rgba(1,1,1,0.5);
+	text-transform:uppercase;
+	margin-bottom:20px;
+}
+
+#notes {
+	color:#FFF;
+	background:#000;
+	font-weight:bold;
+	height:40px;
+	border-radius:15px;
+	box-shadow:0 0 0.6em rgba(1,1,1,0.5);
+}
+
+#notes p {
+	text-align:center;
+}
+
+.tag {
+	color:#000;
+	background:#FFFF00;
+	text-transform:uppercase;
+	text-decoration:blink;
+	border-radius:5px;
+	font-weight:bold;
+}
+
+#t1,#t2 {
+	margin-top:15px;
+	margin-bottom:8px;
+	background:#DDD;
+	border-radius:15px;
+}
+
+#t1 table,#t2 table {
+	width:100%;
+	border:0px SOLID #000;
+	border-radius:15px;
+	box-shadow:0 0 0.5em rgba(1,1,1,0.6);
+}
+
+#t1 table th, #t2 table th {
+	color:#FFF;
+	background:	#306EFF;
+	padding:5px;
+	text-transform:uppercase;
+	font-size:16px;
+	border-radius:15px;
+
+}
+#t1 table td, #t2 table td {
+	padding:5px;
+}
+
+input[type="text"] {
+	border-radius:5px;
+	box-shadow:0 0 0.1em rgba(1,1,1,0.3);
+	font-size:15px;
+}
+
+input[type="submit"],input[type="button"] {
+	color:#FFF;
+	background:#306EFF;
+	font-size:19px;
+	border-radius:10px;
+	box-shadow:0 0 0.2em rgba(0,0,0,0.8);
+}
+#t3 table {
+	width:100%;
+	text-align:center;
+	padding:3px;
+}

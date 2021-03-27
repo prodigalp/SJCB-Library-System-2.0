@@ -1,0 +1,32 @@
+Granted   = Permit a book request [Accept]
+         >> Successful borrowing, Remarks='Granted', dater2=current_date + 3days
+
+Reject    =  delete a book request [Reject]
+	 >> Delete transaction request to the database
+
+Overdue   = Book barrowing elapsed [Overdue]
+	 >> Lapses for 3 days already (charge P5 per day) Remarks='Overdue'
+	    
+		
+Returned  = Book is properly returned to the library without penalty [Returned]
+	 >> Successful transaction, Remarks='Returned'.
+
+Loss	  = Book is not returned, borrower will be charge a corresponding penalty [Loss]
+	 >> Loss book, Remarks='Loss' (charge base on the book price + penalty)
+
+Watchlist = Book is returned in bad condition (charge a corresponding penalty) [Watchlist] or
+	 >> Book is not returned within a week/month, remarks='Watchlist'
+
+Hold	  = means book is requested
+
+
+official icons:
+===============
+1. Accept
+2. Reject
+3. Overdue
+4. Returned
+5. Loss
+6. Watchlist
+
+

@@ -1,0 +1,158 @@
+html {
+	background:#306EFF;
+}
+
+body {
+	margin:0px;
+	padding:0px;
+	font-family:arial;
+}
+
+#wraper {
+	background:#FFF;
+	padding:10px;
+	width:800px;
+	margin:40px auto;
+	border-radius:15px;
+	box-shadow:0 0 0.5em rgba(1,1,1,1);
+}
+
+#header {
+	font-weight:bold;
+	text-indent:7px;
+	background:#00FF00;
+	color:#000;
+	border-radius:15px;
+	padding:5px;
+	margin-bottom:10px;
+	box-shadow:0 0 0.5em rgba(1,1,1,.5);
+}
+
+
+
+#header2 {
+	text-decoration:underline;
+	text-transform:uppercase;
+	color:#000;
+	height:30px;
+	line-height:30px;
+	font-size:30px;
+	font-weight:bold;
+	text-align:center;
+	
+}
+
+table {
+	text-align:center;
+	width:75%;
+}
+
+#lip1 {
+	border-radius:10px;
+	font-size:34px;
+	font-weight:bold;
+	font-family:"times new roman";
+}
+
+#lip2 {
+	font-size:16px;
+	font-family:arial;
+}
+
+#lip3 {
+	font-size:14px;
+	font-family:arial;
+	font-style:italic;
+}
+
+#lip4 {
+	font-size:16px;
+	font-family:arial;
+	font-weight:bold;
+}
+
+#liver1{
+	background:#00FF00;
+	color:#000;
+	font-size:18px;
+	font-family:"times new roman";
+	font-weight:bold;
+	text-transform:uppercase;
+}
+
+#liver2{
+	font-size:14px;
+	font-family:arial;
+	
+}
+
+#liver3{
+	background:#FFFF00;
+	font-weight:bold;
+	font-size:16px;
+	font-family:monospace;
+	text-transform:uppercase;
+}
+
+td {
+	padding:4px;
+}
+
+#footer {
+	color:#00FF00;
+	background:#000;
+	height:25px;
+	line-height:25px;
+	text-align:center;
+	font-size:16px;
+	border-radius:15px;
+	font-family:monospace;
+	margin-top:4px;
+}
+
+#headup {
+	height:20px;
+	line-height:20px;
+	color:#FFF;
+	background:#306EFF;
+	font-family:monospace;
+	font-size:18px;
+	box-shadow:0 0 0.5em rgba(1,1,1,.5);
+	border-radius:15px;
+	
+}
+
+#shade {
+	padding:2px;
+	border-radius:5px;
+	padding-bottom:3px;
+	box-shadow:0 0 0.4em rgba(1,1,1,.3);
+}
+
+
+a:link, a:visited  {
+	color:#0000FF;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#000;
+	font-weight:bold;
+	text-decoration:underline;
+}
+
+table {
+	margin:20px auto;
+}
+
+
+input[type="text"] {
+	font-size:22px;
+	border-radius:10px;
+}
+
+input[type="submit"], input[type="button"] {
+	font-size:18px;
+	border-radius:10px;
+}
+

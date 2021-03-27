@@ -1,0 +1,69 @@
+html {
+	background:#306EFF;
+	background-image:url("../IMG/blu4.jpg");
+	background-position: center top;
+}
+
+body {
+	margin:0px;
+	padding:0px;
+	font-family:monospace;
+}
+
+#wraper {
+	background:#3BB9FF;
+	padding:9px;
+	width:440px;
+	height:200px;
+	margin:130px auto;
+	border-radius:15px;
+	box-shadow:0 0 0.8em rgba(0,0,0,0.6);
+}
+
+#header {
+	color:#FFFF00;
+	background:#306EFF;
+	font-weight:bold;
+	font-size:16px;
+	text-align:center;
+	text-transform:uppercase;
+	padding:3px;
+	border-radius:10px;
+	box-shadow:0 0 0.4em rgba(1,1,1,0.4);
+	letter-spacing:2px;
+}
+
+#content {
+	padding:9px;
+	background:#DDD;
+	height:180px;
+	border-radius:15px;
+	box-shadow:0 0 0.6em rgba(1,1,1,0.5);
+}
+
+table,td {
+	padding:10px;
+}
+
+td {
+	color:#000;
+	font-size:16px;
+	font-family:monospace;
+	font-weight:bold;
+}
+
+input[type="text"],[type="password"] {
+	font-size:18px;
+	border:1px solid #306EFF;
+	border-radius:5px;
+}
+
+input[type="submit"] {
+	font-size:16px;
+	color:#FFFF00;
+	background:#306EFF;
+	border-radius:10px;
+	box-shadow:0 0 0.2em rgba(0,0,0,0.9);
+	margin-top:5px;
+	font-weight:bold;
+}	

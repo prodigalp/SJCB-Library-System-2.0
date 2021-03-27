@@ -1,0 +1,157 @@
+body 
+{
+	background:#306EFF;
+	margin:0px;
+	padding:0px;
+}
+
+#wraper {
+	background:#00FF00;
+	padding:10px;
+	width:550px;
+	margin:40px auto;
+	border-radius:10px;
+	box-shadow:0 0 .7em rgba(0,0,0,1);
+}
+
+#header {
+	color:#FFFF00;
+	background:#306EFF;
+	height:40px;
+	line-height:40px;
+	text-align:center;
+	font-size:35px;
+	font-family:serif;
+	font-variant:small-caps;
+	font-weight:bold;
+	letter-spacing:2px;
+	border-radius:10px;
+	text-shadow:2px 2px 1px #000;
+}
+
+#wraper form {
+	margin:0px;
+}
+
+#nav {
+	width:200px;
+	float:left;
+	margin-top:10px;
+	text-align:center;
+}	
+
+#nav input[type="text"] {
+	font-size:18px;
+	border-radius:10px;
+	border:2px SOLID #306EFF;
+	padding:7px 3px 7px 3px;
+}
+
+#nav #display {
+	width:230px;
+	margin-top:10px;
+}
+	
+#side {
+	margin-top:12px;
+	float:right;
+	width:305px;
+}
+
+#side input[type="text"] {
+	font-size:16px;
+	text-indent:6px;
+	border:1px SOLID #306EFF;
+	background:#DDD;	
+}
+
+#side input[type="submit"] {
+	font-size:18px;
+	font-family:monospace;
+	font-weight:bold;
+	border-radius:10px;
+}
+
+#side input[type="submit"] {
+	color:#FFF;
+	background:#306EFF;
+	font-size:20px;
+	box-shadow:0 0 .2em rgba(0,0,0,.5);
+}
+
+#side table {
+	margin-top:10px;
+	width:100%;
+	text-align:center;
+	background:#FAF8CC;
+	margin-bottom:3px;
+	border-radius:10px;
+}
+#side #pos {
+	border-radius:10px;
+	margin:0px;
+	padding:10px 15px 0px 15px;
+	font-size:16px;
+	text-align:justify;
+	box-shadow:0 0 .2em rgba(0,0,0,1);
+}
+
+#reset {
+	clear:both;
+}
+
+#footer {
+	color:#00FF00;
+	background:#000;
+	height:25px;
+	line-height:25px;
+	text-align:center;
+	font-family:monospace;
+	font-size:18px;
+	border-radius:10px;
+	margin-top:5px;
+	text-transform:uppercase;
+	font-weight:bold;
+	letter-spacing:2px;
+}
+
+#footer a {
+	text-decoration:none;
+}
+
+#footer a:link, a:visited {
+	color:#00FF00;
+	background:#000;
+}
+
+#footer a:hover {
+	color:#000;
+	background:#00FF00;
+	font-size:18px;
+	border-radius:5px;
+}
+
+#footer a:active {
+	color:#000;
+	background:#FFF;
+	font-size:14px;
+	border-radius:5px;
+}
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+	

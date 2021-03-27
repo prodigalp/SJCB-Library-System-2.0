@@ -1,0 +1,27 @@
+April 13, 2014 (SUN)
+
+For download icons: 
+====================
+1. Library [ok]
+2. Dictionary [ok]
+3. Viewlog  [ok]
+4. Password [ok]
+5. Credits  [ok]
+6. Organizational Chart [ok]
+7. Transactions [ok] 
+8. Settings [ok]
+9. Help [ok]
+============
+10. Barrowed [ok]
+11. Reserved [ok]
+12. Reports (annual) [ok]
+13. Total Books [ok]
+14. College [ok]
+15. Highschool [ok]
+16. Instructor  [ok]
+17. Backup [ok]
+18. Word Entries [ok]
+19. Reset Password [ok]
+20. Merge Documents [ok]
+21. Help [ok]
+22. Log-in Background [ok]

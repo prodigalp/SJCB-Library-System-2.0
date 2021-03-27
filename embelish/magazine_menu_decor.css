@@ -1,0 +1,111 @@
+html {
+	background:#306EFF;
+}
+
+body {
+	margin:0px;
+	padding:0px;
+	font-family:arial;
+}
+
+#wraper {
+	background:#00FF00;
+	padding:10px;
+	width:400px;
+	margin:30px auto;
+	border-radius:15px;
+	box-shadow:0 0 0.5em rgba(1,1,1,1);
+}
+
+#header {
+	background:#306EFF;
+	color:#FFFF00;
+	border-radius:15px;
+	padding:5px;
+	box-shadow:0 0 0.3em rgba(0,0,0,0.5);
+	font-weight:bold;
+	text-transform:uppercase;
+	letter-spacing:5px;
+	margin-bottom:5px;
+	text-align:center;
+}
+
+#footer {
+	color:#00FF00;
+	background:#000;
+	height:25px;
+	line-height:25px;
+	text-align:center;
+	font-size:16px;
+	border-radius:15px;
+	font-family:monospace;
+	margin-top:10px;
+}
+
+#headup {
+	height:30px;
+	line-height:20px;
+	color:#FFF;
+	font-family:monospace;
+	font-size:18px;
+	border-radius:10px;
+	background:#306EFF;
+	text-transform:uppercase;	
+	font-weight:bold;
+	
+}
+
+#shade {
+	padding:2px;
+	border-radius:5px;
+	padding-bottom:3px;
+	box-shadow:0 0 0.4em rgba(1,1,1,.3);
+}
+
+
+a:link, a:visited  {
+	color:#0000FF;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#000;
+	font-weight:bold;
+	text-decoration:underline;
+}
+
+table {
+	margin:10px auto;
+	margin-bottom:20px;
+	
+}
+
+td {	
+	padding:3px;
+}
+
+#action {
+	height:18px;
+	width:18px;
+}
+
+
+input[type="text"] {
+	border-radius:10px;
+	text-indent:8px;
+	font-size:16px;
+}
+
+input[type="submit"], input[type="button"] {
+	font-size:16px;
+	border-radius:10px;
+	background:#306EFF;
+	color:#FFF;
+	box-shadow:0 0 0.4em rgba(1,1,1,.6);
+}
+
+#btn {
+	text-align:center;
+}
+
+

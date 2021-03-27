@@ -1,0 +1,38 @@
+
+	
+Database Requirements
+=====================
+1. Add (insert command)
+2. Update (update command)
+3. Delete (delete command)
+4. Search (select command)
+5. Print
+6. Include Pictures
+7. Email , Comments , Sudjestions 
+8. Log-in , Log-out (use session)
+9. Clock (upper right corner)
+10. Credits (with backround music) either flash or php
+
+
+Tables needed:
+==============
+1. tblbooks	- 	Library files 			[ ok ]
+2. tblcollege	-	College Department		[ ok ]
+3. tblhigh	-	HighSchool Department		[ ok ]
+4. tblprof	-	Professors			[ ok ]
+5. tblborrow	-	Listing of Borrowed books	[ ok ]
+6. tbldic	-	Dictionary files		[ ok ]
+7. tblmag	-	Magazine files			[ ok ]
+
+> Include backup capabilities of database
+
+
+- tbldic (structure) must include header, design, search box
+
+1. id 	int(11) not null primary key auto_inrement
+2. word varchar(150) not null	 (text box)
+3. meaning varchar(255) not null (textarea)	
+----------------------------------------------------------
+
+
+	

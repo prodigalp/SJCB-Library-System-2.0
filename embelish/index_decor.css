@@ -1,0 +1,141 @@
+html { background:#306EFF; }
+p { font-size:20px;	text-align:left;}
+body {	font-family:monospace;	} 
+
+
+
+#wraper {
+	background:#00FF00;
+	padding:10px;
+	width:720px;
+	margin:20px auto;
+	border-radius:15px;
+	box-shadow:0 0 .6em rgba(0,0,0,1);
+}
+
+#header {
+	color:#306EFF;
+	text-align:center;
+	font-size:30px;
+	font-weight:bold;
+	text-transform:uppercase;
+	letter-spacing:2px;
+	margin-bottom:3px;
+	font-family:serif;
+}
+
+table {
+	box-shadow:0 0 0.3em rgba(1,1,1,1);
+	background:#306EFF;
+	color:#FFF;
+	width:90%;
+	text-align:right;
+	font-size:18px;
+	font-weight:bold;
+	border-radius:10px;
+	margin:auto;
+}
+
+#content {
+	text-align:center;
+}
+img {
+	margin:30px 0px 20px 0px;
+	width:250px;
+	height:220px;
+	border-radius:15px;
+	box-shadow:0 0 1em rgba(0,0,0,.7);
+	opacity:0.6;
+}
+
+#outside {
+	margin:10px 0px 0px 55px;
+	padding:0x;
+	float:left;
+}
+	
+#outside img {
+	margin:5px;
+	padding:10px;
+}
+
+#outsider {
+	margin:5px 0px 0px 55px;
+}
+
+#pixel {
+	height:65px;
+	width:65px;
+	opacity:1;
+	padding:5px;
+}
+	
+#outsider img {
+	margin:5px;
+	padding:5;
+}
+		
+#label {
+	background:#306EFF;
+	border-radius:10px;
+	color:#FFF;
+	font-size:20px;
+	text-align:center;
+	text-transform:uppercase;
+	letter-spacing:10px;
+	font-weight:bold;
+	padding:5px;
+	margin:8px 0px 5px 0px;
+	box-shadow:0 0 0.3em rgba(0,0,0,1);
+}
+
+#label2 {
+	border-radius:10px;
+	font-size:15px;
+	text-align:center;
+	text-transform:uppercase;
+	font-weight:bold;
+	padding:5px;
+	margin:5px 0px 5px 0px;
+}
+
+#reset {
+	clear:both;
+}
+
+ul {
+	list-style-type:none;
+	margin:0px;
+	padding:0px;
+}
+
+li {
+	float:left;
+}
+
+#footer {
+	background:#000;
+	color:#00FF00;
+	height:30px;
+	line-height:30px;
+	text-align:center;
+	font-size:16px;
+	border-radius:10px;
+}
+
+input[type="text"] {
+	border-radius:10px;
+	text-align:center;
+	font-weight:bold;
+	background:#FAF8CC;
+	box-shadow:0 0 0.3em rgba(0,0,0,0.5);
+}
+
+input[type="submit"] {
+	color:#FFF;
+	background:#306EFF;
+	font-size:18px;
+	border-radius:10px;
+	font-family:sans-serif;
+	box-shadow:0 0 0.3em rgba(0,0,0,0.5);
+}

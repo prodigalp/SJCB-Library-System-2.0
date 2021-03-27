@@ -1,0 +1,20 @@
+
+ pending updates
+
+  HOLD    - not process yet, waiting for approval
+  OverDUE - Lapses for 3 days
+  Watchlist - lapses for 7-30 days
+
+NOTE: Remarks of this items must either update or delete.
+
+use datediff  
+
+column needed ctrlnum = for user info
+              accnum  = for book info
+        dater1,dater2 = for date difference
+
+
+mysql> select * from tblborrow where datediff(dater2,dater1)>3 || remarks='hold';
+
+
+  (dater1-dater2)-current-date
